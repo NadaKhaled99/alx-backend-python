@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-
 """Async comprehension"""
-
 from asyncio import sleep
 from random import form
 from typing import Generator
